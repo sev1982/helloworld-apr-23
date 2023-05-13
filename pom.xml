@@ -14,12 +14,10 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-  </properties>
-
-  <properties>
-    <sonar.organization>sev1982</sonar.organization>
+    <sonar.organization>helloworld-apr-23</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
+
 
   <modules>
    <module>server</module> 
